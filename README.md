@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naguomsi
-- 👀 I’m interested in python,HTML,css
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on learn new skills
+- 👋 Hi,
+- 👀 interested in python,HTML,css
+- 🌱 currently learning python
+- 💞️ looking forward to learn new skills
 
 <!---
 naguomsi/naguomsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
